@@ -1,0 +1,312 @@
+[
+  {
+    "image": "extracted_images/page1_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page1_image2.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "three little girls"
+  },
+  {
+    "image": "extracted_images/page1_image3.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "drawing"
+  },
+  {
+    "image": "extracted_images/page1_image4.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "two little girls"
+  },
+  {
+    "image": "extracted_images/page1_image5.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "two small black and white flowers"
+  },
+  {
+    "image": "extracted_images/page1_image6.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "two small flowers"
+  },
+  {
+    "image": "extracted_images/page1_image7.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "two black and white balloons"
+  },
+  {
+    "image": "extracted_images/page1_image8.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "flower"
+  },
+  {
+    "image": "extracted_images/page1_image9.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "flower"
+  },
+  {
+    "image": "extracted_images/page1_image10.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "flower"
+  },
+  {
+    "image": "extracted_images/page2_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page2_image2.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "flower"
+  },
+  {
+    "image": "extracted_images/page2_image3.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "flower"
+  },
+  {
+    "image": "extracted_images/page2_image4.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "surfboard"
+  },
+  {
+    "image": "extracted_images/page2_image5.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "scissors"
+  },
+  {
+    "image": "extracted_images/page2_image6.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "scissors"
+  },
+  {
+    "image": "extracted_images/page2_image7.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "basket of bananas"
+  },
+  {
+    "image": "extracted_images/page3_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page3_image2.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "clock"
+  },
+  {
+    "image": "extracted_images/page4_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page4_image2.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "instructions"
+  },
+  {
+    "image": "extracted_images/page4_image3.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "drawing of cat"
+  },
+  {
+    "image": "extracted_images/page4_image4.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "cat"
+  },
+  {
+    "image": "extracted_images/page4_image5.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "cat"
+  },
+  {
+    "image": "extracted_images/page5_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page5_image2.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "cat"
+  },
+  {
+    "image": "extracted_images/page5_image3.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "cat"
+  },
+  {
+    "image": "extracted_images/page5_image4.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "clock"
+  },
+  {
+    "image": "extracted_images/page5_image5.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "numbers"
+  },
+  {
+    "image": "extracted_images/page6_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page6_image2.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "half circle"
+  },
+  {
+    "image": "extracted_images/page6_image3.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "half circle"
+  },
+  {
+    "image": "extracted_images/page7_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page8_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page8_image2.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "tree"
+  },
+  {
+    "image": "extracted_images/page8_image3.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "tree"
+  },
+  {
+    "image": "extracted_images/page8_image4.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "tree"
+  },
+  {
+    "image": "extracted_images/page8_image5.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "apple tree"
+  },
+  {
+    "image": "extracted_images/page8_image6.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "three metal objects"
+  },
+  {
+    "image": "extracted_images/page8_image7.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "three metal objects"
+  },
+  {
+    "image": "extracted_images/page8_image8.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "pole"
+  },
+  {
+    "image": "extracted_images/page8_image9.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "three metal hooks"
+  },
+  {
+    "image": "extracted_images/page9_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page9_image2.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "route"
+  },
+  {
+    "image": "extracted_images/page9_image3.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "glass"
+  },
+  {
+    "image": "extracted_images/page9_image4.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "mugs"
+  },
+  {
+    "image": "extracted_images/page9_image5.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "mug"
+  },
+  {
+    "image": "extracted_images/page9_image6.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "route"
+  },
+  {
+    "image": "extracted_images/page10_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page10_image2.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "pencils"
+  },
+  {
+    "image": "extracted_images/page10_image3.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "arrows"
+  },
+  {
+    "image": "extracted_images/page10_image4.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "clock"
+  },
+  {
+    "image": "extracted_images/page11_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page11_image2.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "flowers"
+  },
+  {
+    "image": "extracted_images/page11_image3.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "wine glasses"
+  },
+  {
+    "image": "extracted_images/page11_image4.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "calendar"
+  },
+  {
+    "image": "extracted_images/page12_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page12_image2.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "number of numbers"
+  },
+  {
+    "image": "extracted_images/page13_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  },
+  {
+    "image": "extracted_images/page13_image2.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "computer"
+  },
+  {
+    "image": "extracted_images/page13_image3.png",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "beach ball"
+  },
+  {
+    "image": "extracted_images/page14_image1.jpeg",
+    "generated_question": "What is shown in the image?",
+    "predicted_answer": "red circle"
+  }
+]
